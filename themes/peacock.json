@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "name": "Peacock",
+        "description": "The original Peacock color scheme.",
+        "slug": "peacock",
+        "author": {
+            "name": "Dayle Rees",
+            "email": "me@daylerees.com",
+            "site": "http://daylerees.com"
+        }
+    },
+    "colors": {
+        "foreground": "",
+        "background": "",
+        "first": "",
+        "second": "",
+        "third": "",
+        "operator": "",
+        "string": "",
+        "comment": "",
+        "comment.paramter": "",
+        "numeric": "",
+        "line.foreground": "",
+        "line.background": "",
+        "gutter.foreground": "",
+        "gutter.background": ""
+    },
+    "overrides": {
+
+    },
+    "config": {
+
+    }
+}

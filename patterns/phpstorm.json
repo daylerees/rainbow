@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "name": "PHPStorm Color Scheme",
+        "description": "The original Peacock color scheme.",
+        "slug": "phpstorm",
+        "author": {
+            "name": "Dayle Rees",
+            "email": "me@daylerees.com",
+            "site": "http://daylerees.com"
+        }
+    },
+    "dirs": [],
+    "copy": {},
+    "render": {}
+}
